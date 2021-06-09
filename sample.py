@@ -1,8 +1,3 @@
-# python file
-import math
-import os
-import sys
-
 import requests
 
 # input can only be used with terminal only
