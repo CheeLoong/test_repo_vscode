@@ -4,9 +4,9 @@ import requests
 # name = input("Kimi No Nawa? ")
 # print("Hello,", name)
 
-print(sys.version)
+# print(sys.version)
 
-print(sys.executable)
+# print(sys.executable)
 
 
 def greet(who_to_greet):
