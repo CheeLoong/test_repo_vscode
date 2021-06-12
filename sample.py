@@ -18,5 +18,4 @@ r = requests.get("https://coreyms.com")
 print(r.status_code)
 
 
-# try to pull this from git
-# try to pull this again
+# try to pull one last time, deleted previous 2 lines, added 1 line
